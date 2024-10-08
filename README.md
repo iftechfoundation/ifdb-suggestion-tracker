@@ -1,9 +1,9 @@
-## IFDB Suggestion Tracker
+## DEPRECATED IFDB Suggestion Tracker
 
-This repository exists to manage feature suggestions and bug reports
+This repository was originally created to manage feature suggestions and bug reports
 relating to [IFDB][].
 
-Please file suggestions in the [issues tab][issues] above.
+Please file suggestions in the [issues tab][issues] on the IFDB repository.
 
 [IFDB]: https://ifdb.org/
-[issues]: https://github.com/iftechfoundation/ifdb-suggestion-tracker/issues
+[issues]: https://github.com/iftechfoundation/ifdb/issues
